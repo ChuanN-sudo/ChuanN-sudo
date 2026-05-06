@@ -1,5 +1,8 @@
- # Hi, I'm Chuan 👋
+  Hi, I'm Chuan 👋
 
-  Embedded systems developer. Mostly working on firmware, BSP, and low-level driver stuff.
+  Embedded systems developer, mostly living in the firmware and BSP layer.
+  Interested in how hardware and software meet at the lowest level.
 
-  Currently into RISC-V and ARM platforms. Writing about it at [chuann.com](https://www.chuann.com)
+  🔧 Currently working with RISC-V and ARM platforms.
+
+  📝 Sharing thoughts and notes on embedded development at [chuann.com](https://www.chuann.com)
