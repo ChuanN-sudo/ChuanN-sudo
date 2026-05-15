@@ -8,4 +8,5 @@
   📝 Sharing thoughts and notes on embedded development at [chuann.com](https://www.chuann.com)
 
   My way ahead's a long,long one,oh! I seek my Beauty hight and low.
+  
   路漫漫其修远兮，吾将上下而求索.
